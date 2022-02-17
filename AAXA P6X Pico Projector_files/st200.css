@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+h1{    background-image: none;
+  text-align: left;
+  font-size: 18px;
+  margin: 20px 0 5px 0;}
+
+.hdpadding{ padding-right:20px;}
+.header2update{ font-size:16px; }
+h2{ background-image: none;
+  text-align: left;
+  line-height: 50px;
+  font-size: 16px;
+  height:30px;
+  margin: 10px auto;}
+.st200float{ float:left;}
+.clear{clear:both;}
+.paddingimage{ margin-right:10px;}
+.smaller-discrip{ font-size:11px; margin-bottom:10px;}
+.smaller-discrip-strong{ font-size:11px; margin-bottom:10px; font-weight:bold;}
+.acc-title{ font-weight:11px; font-weight:bold; font-size: .8em;}
+p {
+  margin: 0px auto;
+  font-size: .9em;
+  margin-right: 20px;
+  padding-bottom: 1.05em;
+  line-height: 1.2em; 
+}
+.acc-pricing{ font-size:18px; color:#cc0000;}
+.msrp{font-size:12px;}
+.acc-pad{ margin-left:20px;}
+.outlet-base{ width:700px;}
+.outlet-product{ margin:20px; float:left;}
+.hr-padding{ margin:15px 0}
+.img-padding{ margin:15px 0 ;}
+.list-padding{ margin-bottom: 10px;}
+.price{font-size:2em; margin-bottom: -1.2em;}
+ul {font-size:1em;}
+hr{margin:20px auto;}
+ol {margin-left:20px; font-size:1em;}
+.right-bullets{border: 1px solid #ccc; padding: 10px; margin-right: 25px; margin-top: 20px;}
+.warn{ color:#c00;}
+.heading-align{ text-align:center; color:#333;  font-size: 16px;}
+.unordered-list-structure{margin-left:15px; font-size:11px; line-height:14px; margin-bottom:10px;}
+
